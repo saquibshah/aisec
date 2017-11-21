@@ -1,1 +1,1 @@
-# The hackathon project
+# The Hackathon project of 2016 by AISEC
