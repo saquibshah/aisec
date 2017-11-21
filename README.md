@@ -1,1 +1,1 @@
-# aisec
+# The hackathon project
