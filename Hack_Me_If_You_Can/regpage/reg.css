@@ -1,0 +1,56 @@
+/*
+/* Created by Filipe Pina
+ * Specific styles of signin, register, component
+ */
+/*
+ * General styles
+ */
+.form-group{
+	margin-bottom: 15px;
+        color: #333333;
+}
+
+label{
+	margin-bottom: 5px !important;
+        color: #FFF;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+    color: #fff;
+}
+
+.main-login{
+    background-color: rgba(255,255,255,0.1) !important;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+.main-login select, .main-login select * {
+    color: #333;
+}
+.main-login .glyphicon {
+    color: #333333 !important;
+}
+
+.main-center{
+    padding: 15px 40px;
+}
+
+.login-button{
+	margin-top: 5px;
+}
+
+.login-register{
+	font-size: 11px;
+	text-align: center;
+}
+
+.panel-heading p {
+    color: #FFF;
+}
+.datepicker * {
+    color: #333;
+}

@@ -1,0 +1,10 @@
+<p>Duqu looks for information that could be useful in attacking industrial control systems. Its purpose is not to be destructive, the known components are trying to gather information. However, based on the modular structure of Duqu, special payload could be used to attack any type of computer system by any means and thus cyber-physical attacks based on Duqu might be possible. However, use on personal computer systems has been found to delete all recent information entered on the system, and in some cases total deletion of the computer's hard drive. Internal communications of Duqu are analysed by Symantec, but the actual and exact method how it replicates inside an attacked network is not yet fully known. One of Duqu's actions is to steal digital certificates (and corresponding private keys, as used in public-key cryptography) from attacked computers to help future viruses appear as secure software. Duqu uses a 54×54 pixel JPEG file and encrypted dummy files as containers to smuggle data to its command and control center. Security experts are still analyzing the code to determine what information the communications contain. Initial research indicates that the original malware sample automatically removes itself after 36 days (the malware stores this setting in configuration files), which would limit its detection.</p>
+
+<p>Key points are:
+<ul>
+   <li> Executables developed after Stuxnet using the Stuxnet source code that have been discovered.</li>
+   <li> The executables are designed to capture information such as keystrokes and system information.</li>
+   <li> Current analysis shows no code related to industrial control systems, exploits, or self-replication.</li>
+   <li> The executables have been found in a limited number of organizations, including those involved in the manufacturing of industrial control systems.</li>
+   <li> The exfiltrated data may be used to enable a future Stuxnet-like attack or might already have been used as basis for the Stuxnet attack.</li>
+</ul></p>

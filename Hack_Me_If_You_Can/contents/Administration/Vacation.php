@@ -1,0 +1,3 @@
+<p>Plan your vacations in advance using this system. The calendar here will present you with a personal representation of your yearly workdays, national holidays and planned leaves. You can add/edit your planned vacations in the calendar. Remember that these planned leaves will be reviewed by your immediate manager.</p>
+<p>You are only eligible for planning a vacation in your own name. Do not misuse these priviledges. Any attempt to misuse the helpdesk will result in disiplinary actions.</p>
+<p>To visit the address book, please follow this <a href="displaycontent.php?file=contents/UnderMaintenance.php&page=vacation">link</a></p>

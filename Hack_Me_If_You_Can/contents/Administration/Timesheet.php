@@ -1,0 +1,3 @@
+<p>You can use this portal to fill in the timesheets for the projects you are working on within our company. The timesheets need to be filled out at the end of each week. Your timesheets will be reviewed by your immediate manager and if they are not correctly filled, they will be rejected.</p>
+<p>You are only eligible for filling the timesheets in your own name. Do not misuse these priviledges. Any attempt to misuse the helpdesk will result in disiplinary actions.</p>
+<p>To visit the address book, please follow this <a href="displaycontent.php?file=contents/UnderMaintenance.php&page=timesheet">link</a></p>

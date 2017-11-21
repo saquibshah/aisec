@@ -1,0 +1,16 @@
+#mybackground { 
+                position:absolute;
+                left: 0;
+                top: 30;
+                z-index:-1;
+            }
+.bottomright {
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+}
+.bottomleft {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+}

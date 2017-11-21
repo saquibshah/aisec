@@ -1,0 +1,3 @@
+<p>The help desk is the place where you can get related information about the company's operatiion and the product's and services we have. This is also the place you will connect to when looking for a solution to any problem you are facing within the company. The help desk is present to troubleshoot problems and provide guidance to using the various software products we have internal to the company.</p>
+<p>The helpdesk has been created to help you and your colleagues through any problems you are facing inside the corporation. Do not misuse these priviledges. Any attempt to misuse the helpdesk will result in disiplinary actions.</p>
+<p>To visit the address book, please follow this <a href="displaycontent.php?file=contents/UnderMaintenance.php&page=helpdesk">link</a></p>
