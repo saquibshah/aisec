@@ -1,0 +1,29 @@
+
+
+table.users
+ID, username, password, departmentid, employedsince, locked, 
+1 , alice, aligator1,  
+2, james, isecretlylove50cent, 
+
+tables.access
+ID, userid, accessright
+1, 1, secretary
+2, 2, administration
+3, 3, ....
+
+tables.department
+ID, name
+1, Companylead
+2, VDD
+3, ....
+
+tables.logins
+ID, name, time, cookie
+1, alice, 2016-..., cookie
+
+'; UNION SELECT ID, NULL, NULL, NULL, NULL FROM users WHERE username = 'james
+
+
+
+
+ 

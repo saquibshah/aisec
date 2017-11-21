@@ -1,0 +1,37 @@
+
+
+displaycontent.php?page=projects.php
+
+- News
+- Departments
+\- rand([A-Z], 3)
+\- PHD ( Project Hiring Department )
+\ - HHD (Hardware Hacking Department )
+\ - VDD Virus 
+\ - WCD Worm
+\ - FAD Forensic Analysis
+\ - Web Hacking
+\- Mobile Hacking
+- Projects
+\ - Stuxnet 
+\ - Flame
+\ - Water
+\ - Duqu
+\ - random words
+\ - you name it
+- Employe Services
+\ - Carsharing
+\ - Bettingsystem
+\ - Complaint Portal
+\ - 
+- Administration
+\ - Hiring new ppl
+\ - Timesheet ZEB
+\ - Vacation
+\ - Traveling
+\ - Human Resources (only for James)
+- ISM Services
+\ - Adressbook
+\ - Helpdesk
+\ - 
+ 
